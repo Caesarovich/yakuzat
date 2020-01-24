@@ -1,0 +1,41 @@
+{
+  "Version": "2.1.1",
+
+  "Discord": {
+    "BotToken": "",
+
+    "CommandPrefix": "!",
+
+    "WelcomeChannelID": "",  
+    "TwitchChannelID": "",
+    "AdminRoleID": "",  
+    "PCRoleID": "",  
+    "PS4RoleID": "",  
+    "XboxRoleID": ""  
+  },
+  "Twitch": {
+    "ClientOptions": {
+      "identity": {
+        "username": "",
+        "password": ""
+      },
+      "channels": [
+        "",
+        ""
+      ],
+      "connection": {
+        "reconnect": true,
+        "secure": true
+      }
+    },
+    "FancyName": {
+      "yakuza_family": "",
+      "yakmary": ""
+    },
+    "FancyImage": {
+      "yakuza_family": "",
+      "yakmary": ""
+    },
+    "CommandPrefix": "!"
+  }
+}
